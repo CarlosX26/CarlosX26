@@ -1,6 +1,6 @@
 <div>
   <h3 align="center">
-      Olá! Bem vindo(a) ao meu GitHub!
+      Hi! Welcome to my GitHub!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
    
@@ -21,7 +21,7 @@
     </a>
 </div>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -29,12 +29,12 @@
 const Carlos = {
  name: "Carlos Junio Soares Farias",
  acknowledgements: "Front End Developer",
- primarySkillset: "",
+ primarySkillset: "communication, empathy, collaboration, organization, flexibility, resilience, working under pressure, problem solving and leadership.",
  languages: ["HTML","CSS", "JavaScript","TypeScript","React"] 
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 <code><img height="30" src="https://img.icons8.com/color/344/html-5.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/css3.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/javascript--v1.png"></code>
@@ -46,7 +46,7 @@ const Carlos = {
 <code><img height="30" src="https://img.icons8.com/color/344/git.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/507/507618.png"></code>
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <div style="display: inline_block" align = "center">
   <a href="https://github.com/CarlosX26">
