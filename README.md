@@ -53,7 +53,7 @@ const Carlos = {
   <a href="https://github.com/CarlosX26">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarlosX26&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=20C10E&text_color=20C10E&border_color=20C10E"/>
     
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosX26&layout=compact&langs_count=168&theme=dark&bg_color=0D1117&title_color=20C10E&text_color=20C10E&border_color=20C10E"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosX26&layout=compact&langs_count=168&theme=dark&bg_color=000000&title_color=20C10E&text_color=20C10E&border_color=20C10E"/>
           
 </div>
 <div align = "center">
