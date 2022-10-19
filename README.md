@@ -29,7 +29,8 @@
 const Carlos = {
  name: "Carlos Junio Soares Farias",
  acknowledgements: "Front End Developer",
- primarySkillset: "communication, empathy, collaboration, organization, flexibility, resilience, working under pressure, problem solving and leadership.",
+ primarySkillset: "communication, empathy, collaboration, organization, 
+ flexibility, resilience, working under pressure, problem solving and leadership.",
  languages: ["HTML","CSS", "JavaScript","TypeScript","React"] 
 }
 ```
