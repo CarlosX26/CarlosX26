@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/carlos-junio-b02165240/" target="_blank">
       <img width="80px" src="https://img.icons8.com/cute-clipart/452/linkedin.png" alt="linkedin" align="top" target="_blank">
     </a>
-    <a href="cjunior1@live.com">
+    <a href="#">
        <img width="80px" src="https://img.icons8.com/cute-clipart/344/microsoft-outlook-2019.png" alt="email-gmail" align="top"/>
     </a>
 </div>
@@ -43,7 +43,7 @@ const Carlos = {
 
 <code><img height="30" src="https://www.styled-components.com/atom.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/344/git.png></code>
+<code><img height="30" src="https://img.icons8.com/color/344/git.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/terminal_icon_131942.png"></code>
 
 
