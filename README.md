@@ -55,5 +55,8 @@ const Carlos = {
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosX26&layout=compact&langs_count=168&theme=chartreuse-dark"/>
           
 </div>
-
+<div align = "center">
+<a href="https://git.io/streak-stats">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosX26&theme=hacker"/> 
+</div>
 
