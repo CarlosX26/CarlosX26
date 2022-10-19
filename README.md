@@ -28,8 +28,8 @@
 ```javascript
 const Carlos = {
  name: "Carlos Junio Soares Farias",
- acknowledgements: "Fron End Developer",
- primarySkillset: "ALGUMAS HABILIDADES",
+ acknowledgements: "Front End Developer",
+ primarySkillset: "",
  languages: ["HTML","CSS", "JavaScript","TypeScript","React"] 
 }
 ```
