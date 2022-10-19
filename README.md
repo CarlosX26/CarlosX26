@@ -51,8 +51,8 @@ const Carlos = {
 
 <div style="display: inline_block" align = "center">
   <a href="https://github.com/CarlosX26">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarlosX26&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=20C10E&border_color=20C10E"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosX26&layout=compact&langs_count=168&theme=chartreuse-dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarlosX26&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=#20C10E"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosX26&layout=compact&langs_count=168&theme=dark"/>
           
 </div>
 <div align = "center">
