@@ -27,9 +27,9 @@
 
 ```javascript
 const Carlos = {
- name: "Carlos Junio Soares Farias"
- acknowledgements: "Fron End Developer"
- primarySkillset: "ALGUMAS HABILIDADES"
+ name: "Carlos Junio Soares Farias",
+ acknowledgements: "Fron End Developer",
+ primarySkillset: "ALGUMAS HABILIDADES",
  languages: ["HTML","CSS", "JavaScript","TypeScript","React"] 
 }
 ```
