@@ -44,7 +44,7 @@ const Carlos = {
 <code><img height="30" src="https://www.styled-components.com/atom.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/git.png"></code>
-<code><img height="30" src="[https://cdn.icon-icons.com/icons2/2148/PNG/512/terminal_icon_131942.png](https://cdn-icons-png.flaticon.com/512/507/507618.png](https://cdn-icons-png.flaticon.com/512/507/507618.png)"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/terminal_icon_131942.png"></code>
 
 
 ## **GitHub Estatísticas**
