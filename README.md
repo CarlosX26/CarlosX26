@@ -47,6 +47,7 @@ const Carlos = {
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/git.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/507/507618.png"></code>
+<code><img height="30" src="https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png"></code>
 
 ## **GitHub Statistics**
 
