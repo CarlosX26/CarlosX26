@@ -16,6 +16,10 @@
     <a href="https://www.linkedin.com/in/carlos-junio26" target="_blank">
       <img width="80px" src="https://img.icons8.com/cute-clipart/452/linkedin.png" alt="linkedin" align="top" target="_blank">
     </a>
+  
+  <a href="mailto:cjunior1@live.com" target="_blank">
+      <img width="80px" src="https://img.icons8.com/cute-clipart/452/linkedin.png" alt="linkedin" align="top" target="_blank">
+    </a>
 </div>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
