@@ -18,7 +18,7 @@
     </a>
   
   <a href="mailto:cjunior1@live.com" target="_blank">
-      <img width="80px" src="https://img.icons8.com/cute-clipart/452/linkedin.png" alt="linkedin" align="top" target="_blank">
+      <img width="80px" src="https://img.icons8.com/cute-clipart/512/microsoft-outlook-2019.png" alt="email" align="top" target="_blank">
     </a>
 </div>
 
