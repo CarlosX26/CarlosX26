@@ -44,6 +44,10 @@ const Carlos = {
 <code><img height="30" src="https://img.icons8.com/color/344/typescript.png"></code>
 <code><img height="30" src="https://img.icons8.com/plasticine/344/react.png"></code>
 <code><img height="30" src="https://carlos-jr.netlify.app/static/media/icons8-nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg"></code>
+<code><img height="30" src="https://carlos-jr.netlify.app/static/media/expressjs.cca64e0f360897258ecb.png"></code>
+<code><img height="30" src="https://carlos-jr.netlify.app/static/media/typeorm.f3094d8aa22bb5198454.png"></code>
+<code><img height="30" src="https://carlos-jr.netlify.app/static/media/icons8-postgreesql.6d3129da3f1900ded5afd8286e8e73ef.svg"></code>
+<code><img height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"></code>
 
 <code><img height="30" src="https://www.styled-components.com/atom.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/tailwind_css.png"></code>
