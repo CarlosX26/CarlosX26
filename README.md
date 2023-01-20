@@ -43,6 +43,7 @@ const Carlos = {
 <code><img height="30" src="https://img.icons8.com/color/344/javascript--v1.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/typescript.png"></code>
 <code><img height="30" src="https://img.icons8.com/plasticine/344/react.png"></code>
+<code><img height="30" src="https://carlos-jr.netlify.app/static/media/icons8-nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg"></code>
 
 <code><img height="30" src="https://www.styled-components.com/atom.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/tailwind_css.png"></code>
