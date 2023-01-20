@@ -29,10 +29,10 @@
 ```javascript
 const Carlos = {
  name: "Carlos Junio Soares Farias",
- acknowledgements: "Front End Developer",
+ acknowledgements: "Full Stack Web Developer",
  primarySkillset: ["communication", "empathy", "collaboration", "organization", 
  "flexibility", "resilience", "working under pressure", "problem solving" , "leadership"],
- languages: ["HTML","CSS", "JavaScript","TypeScript","React"] 
+ technologies: ["HTML","CSS","JavaScript","TypeScript","React","React Native","Node.Js","Express.js","PostgreSQL","TypeORM","Jest"] 
 }
 ```
 
