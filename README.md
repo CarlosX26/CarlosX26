@@ -38,23 +38,25 @@ const Carlos = {
 ```
 
 ## **Languages and Tools:**  
-<code><img height="30" src="https://img.icons8.com/color/344/html-5.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/344/css3.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/344/javascript--v1.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/344/typescript.png"></code>
-<code><img height="30" src="https://img.icons8.com/plasticine/344/react.png"></code>
-<code><img height="30" src="https://carlos-jr.netlify.app/static/media/icons8-nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg"></code>
-<code><img height="30" src="https://carlos-jr.netlify.app/static/media/expressjs.cca64e0f360897258ecb.png"></code>
-<code><img height="30" src="https://carlos-jr.netlify.app/static/media/typeorm.f3094d8aa22bb5198454.png"></code>
-<code><img height="30" src="https://carlos-jr.netlify.app/static/media/icons8-postgreesql.6d3129da3f1900ded5afd8286e8e73ef.svg"></code>
-<code><img height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"></code>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+</div>
 
-<code><img height="30" src="https://www.styled-components.com/atom.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/344/tailwind_css.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/344/git.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/507/507618.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/512/figma.png"></code>
+###
 
 ## **GitHub Statistics**
 
