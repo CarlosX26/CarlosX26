@@ -32,8 +32,9 @@ const Carlos = {
  acknowledgements: "Full Stack Web Developer",
  primarySkillset: ["communication", "empathy", "collaboration", "organization", 
  "flexibility", "resilience", "working under pressure", "problem solving" , "leadership"],
- technologies: ["HTML","CSS","JavaScript","TypeScript","React","React Native","Node.Js",
- "Express.js","PostgreSQL","TypeORM","Jest"] 
+ technologies: ["HTML","CSS","JavaScript","TypeScript",
+ "React","Angular","React Native","Node.Js","Express.js",
+ "Python","Django","PostgreSQL","TypeORM","Jest"] 
 }
 ```
 
