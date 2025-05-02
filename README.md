@@ -13,7 +13,7 @@
 
 <div dsplay="inline-block" align="center">
     <h1>🚀 Carlos Junio 🚀</h1>
-    <a href="https://www.linkedin.com/in/carlos-junio26" target="_blank">
+    <a href="www.linkedin.com/in/carlosjnr" target="_blank">
       <img width="80px" src="https://img.icons8.com/cute-clipart/452/linkedin.png" alt="linkedin" align="top" target="_blank">
     </a>
   
