@@ -64,6 +64,9 @@ const carlos = {
 Languages and Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,react,nextjs,angular,postgres,docker,aws,terraform,git,linux" /> </p>
 GitHub Stats
-<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarlosX26&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosX26&layout=compact&theme=github_dark&hide_border=true" /> </div>
+<div align = "center">
+<a href="https://git.io/streak-stats">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosX26&theme=hacker"/> 
+</div>
 Let's connect
 <p align="center"> <a href="https://www.linkedin.com/in/carlosjnr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Junio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:cjunior1@live.com"> <img src="https://img.shields.io/badge/Email-cjunior1%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> 
