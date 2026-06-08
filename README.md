@@ -1,77 +1,69 @@
-<div>
-  <h3 align="center">
-      Hi! Welcome to my GitHub!
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h3>
-   
-  <p align="center">
-      <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Development!;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-      </a>
+<div align="center">
+  <h1>Hey, I'm Carlos 👋</h1>
+
+  <p>
+    <strong>Full Stack Software Engineer</strong>
+  </p>
+
+  <p>
+    I build web and mobile applications with JavaScript, TypeScript, Node.js, React, React Native and PostgreSQL.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/carlosjnr" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:cjunior1@live.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </p>
 </div>
 
-<div dsplay="inline-block" align="center">
-    <h1>🚀 Carlos Junio 🚀</h1>
-    <a href="https://www.linkedin.com/in/carlosjnr" target="_blank">
-      <img width="80px" src="https://img.icons8.com/cute-clipart/452/linkedin.png" alt="linkedin" align="top" target="_blank">
-    </a>
-  
-  <a href="mailto:cjunior1@live.com" target="_blank">
-      <img width="80px" src="https://img.icons8.com/cute-clipart/512/microsoft-outlook-2019.png" alt="email" align="top" target="_blank">
-    </a>
-</div>
+---
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+## About
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+I'm a Full Stack Software Engineer from Brazil, focused on building real-world web and mobile products.
 
-```javascript
-const Carlos = {
- name: "Carlos Junio Soares Farias",
- acknowledgements: "Full Stack Web Developer",
- primarySkillset: ["communication", "empathy", "collaboration", "organization", 
- "flexibility", "resilience", "working under pressure", "problem solving" , "leadership"],
- technologies: ["HTML","CSS","JavaScript","TypeScript",
- "React","Angular","React Native","Node.Js","Express.js",
- "Python","Django","PostgreSQL","TypeORM","Jest"] 
+I work mainly with **JavaScript**, **TypeScript**, **Node.js**, **React**, **React Native** and **PostgreSQL**.
+
+Recently, I've been deepening my knowledge in **AWS**, **Docker**, **Terraform**, backend architecture, cloud infrastructure and scalable systems.
+
+My current goal is to grow as a software engineer by mastering the full software development lifecycle: from product thinking and system design to implementation, deployment and maintenance.
+
+---
+
+## Tech Stack
+
+```ts
+const carlos = {
+  role: "Full Stack Software Engineer",
+
+  languages: ["JavaScript", "TypeScript", "Python", "Java", "SQL"],
+
+  frontend: ["React", "Next.js", "Angular"],
+
+  mobile: ["React Native"],
+
+  backend: ["Node.js", "Express", "NestJS"],
+
+  database: ["PostgreSQL"],
+
+  cloudAndDevOps: ["AWS", "Docker", "Terraform", "Cloudflare R2"],
+
+  currentlyLearning: [
+    "Backend Architecture",
+    "Cloud Infrastructure",
+    "System Design",
+    "Security",
+    "Scalable Applications"
+  ]
 }
 ```
 
-## **Languages and Tools:**  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-</div>
-
-###
-
-## **GitHub Statistics**
-
-<div style="display: inline_block" align = "center">
-  <a href="https://github.com/CarlosX26">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarlosX26&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=20C10E&text_color=20C10E&border_color=20C10E"/>
-    
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosX26&layout=compact&langs_count=168&theme=dark&bg_color=000000&title_color=20C10E&text_color=20C10E&border_color=20C10E"/>
-          
-</div>
-<div align = "center">
-<a href="https://git.io/streak-stats">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosX26&theme=hacker"/> 
-</div>
-
+Languages and Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,react,nextjs,angular,postgres,docker,aws,terraform,git,linux" /> </p>
+GitHub Stats
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarlosX26&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosX26&layout=compact&theme=github_dark&hide_border=true" /> </div>
+Let's connect
+<p align="center"> <a href="https://www.linkedin.com/in/carlosjnr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Junio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:cjunior1@live.com"> <img src="https://img.shields.io/badge/Email-cjunior1%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> 
