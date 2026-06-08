@@ -56,17 +56,28 @@ const carlos = {
     "Cloud Infrastructure",
     "System Design",
     "Security",
-    "Scalable Applications"
-  ]
+    "Scalable Applications",
+  ],
 }
 ```
 
-Languages and Tools
+---
+
+## Languages and Tools
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,react,nextjs,angular,postgres,docker,aws,terraform,git,linux" /> </p>
-GitHub Stats
+
+---
+
+## GitHub Stats
+
 <div align = "center">
 <a href="https://git.io/streak-stats">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosX26&theme=hacker"/> 
 </div>
-Let's connect
-<p align="center"> <a href="https://www.linkedin.com/in/carlosjnr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Junio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:cjunior1@live.com"> <img src="https://img.shields.io/badge/Email-cjunior1%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> 
+
+---
+
+## Let's connect
+
+<p align="center"> <a href="https://www.linkedin.com/in/carlosjnr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Junio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:cjunior1@live.com"> <img src="https://img.shields.io/badge/Email-cjunior1%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
