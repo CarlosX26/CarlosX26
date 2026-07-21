@@ -1,83 +1,99 @@
 <div align="center">
-  <h1>Hey, I'm Carlos 👋</h1>
 
-  <p>
-    <strong>Full Stack Software Engineer</strong>
-  </p>
+# Carlos Junio
 
-  <p>
-    I build web and mobile applications with JavaScript, TypeScript, Node.js, React, React Native and PostgreSQL.
-  </p>
+### Full Stack Software Engineer
 
-  <p>
-    <a href="https://www.linkedin.com/in/carlosjnr" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:cjunior1@live.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+Building web and mobile products with TypeScript, React, React Native, Node.js, and PostgreSQL.
+
+Based in Brazil · Open to international remote opportunities
+
+[Portfolio](https://www.carlosjunio.com/en) ·
+[LinkedIn](https://www.linkedin.com/in/carlosjnr) ·
+[Email](mailto:cjunior1@live.com)
+
 </div>
 
 ---
 
-## About
+## About me
 
-I'm a Full Stack Software Engineer from Brazil, focused on building real-world web and mobile products.
+I'm a Full Stack Software Engineer with 3+ years of experience across web applications, mobile products, enterprise systems, and technical mentoring.
 
-I work mainly with **JavaScript**, **TypeScript**, **Node.js**, **React**, **React Native** and **PostgreSQL**.
+My main ecosystem is JavaScript and TypeScript. I work primarily with React, Next.js, React Native, Node.js, and PostgreSQL, moving between frontend, backend, mobile, integrations, and deployment when the product requires it.
 
-Recently, I've been deepening my knowledge in **AWS**, **Docker**, **Terraform**, backend architecture, cloud infrastructure and scalable systems.
+In my professional experience, I have:
 
-My current goal is to grow as a software engineer by mastering the full software development lifecycle: from product thinking and system design to implementation, deployment and maintenance.
+- worked on an enterprise logistics platform used by large clients, including Nestlé;
+- contributed to four React Native applications, including Arquiba, with 10k+ downloads;
+- built full-stack features for an agribusiness marketplace;
+- reviewed code and supported more than 200 software development students.
 
----
-
-## Tech Stack
-
-```ts
-const carlos = {
-  role: "Full Stack Software Engineer",
-
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "SQL"],
-
-  frontend: ["React", "Next.js", "Angular"],
-
-  mobile: ["React Native"],
-
-  backend: ["Node.js", "Express", "NestJS"],
-
-  database: ["PostgreSQL"],
-
-  cloudAndDevOps: ["AWS", "Docker", "Terraform", "Cloudflare R2"],
-
-  currentlyLearning: [
-    "Backend Architecture",
-    "Cloud Infrastructure",
-    "System Design",
-    "Security",
-    "Scalable Applications",
-  ],
-}
-```
+I also built Or-by, my main independent product, covering product decisions, frontend, backend, database modeling, authentication, infrastructure, and production deployment.
 
 ---
 
-## Languages and Tools
+## Selected work
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,react,nextjs,angular,postgres,docker,aws,terraform,git,linux" /> </p>
+### [Or-by](https://www.or-by.com)
+
+A local discovery platform that helps people find nearby businesses, products, and services.
+
+I built the product end to end, including separate applications for users, business owners, and administrators, connected to a Node.js API and PostgreSQL database.
+
+**Main technologies:** Next.js, TypeScript, Node.js, Express, PostgreSQL, TypeORM, AWS, Docker, NGINX, Terraform, and Cloudflare R2.
+
+[View the case study](https://www.carlosjunio.com/en/projects/or-by)
 
 ---
 
-## GitHub Stats
+### [Software Engineering Portfolio](https://www.carlosjunio.com/en)
 
-<div align = "center">
-<a href="https://git.io/streak-stats">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosX26&theme=hacker"/> 
-</div>
+My professional portfolio, featuring selected web and mobile products, professional experience, technical stack, and an engineering case study about Or-by.
 
 ---
 
-## Let's connect
+## Core stack
 
-<p align="center"> <a href="https://www.linkedin.com/in/carlosjnr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Junio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:cjunior1@live.com"> <img src="https://img.shields.io/badge/Email-cjunior1%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+**Languages**
+
+`TypeScript` · `JavaScript` · `SQL`
+
+**Frontend and mobile**
+
+`React` · `Next.js` · `React Native` · `Angular` · `Tailwind CSS`
+
+**Backend and data**
+
+`Node.js` · `Express` · `NestJS` · `Fastify` · `PostgreSQL`
+
+**Cloud and infrastructure**
+
+`AWS` · `Docker` · `NGINX` · `Terraform` · `Cloudflare R2`
+
+**Additional experience**
+
+`Java` · `Spring Boot` · `Python` · `MongoDB` · `Jest` · `JUnit` · `Firebase` · `WebSockets` · `Git`
+
+---
+
+## Current focus
+
+I'm currently deepening my knowledge in:
+
+- backend architecture;
+- database fundamentals and performance;
+- cloud infrastructure;
+- system design;
+- security and observability;
+- reliable production systems.
+
+---
+
+## Contact
+
+I'm open to international remote opportunities in Full Stack, Product, and Software Engineering.
+
+- **Portfolio:** [carlosjunio.com/en](https://www.carlosjunio.com/en)
+- **LinkedIn:** [linkedin.com/in/carlosjnr](https://www.linkedin.com/in/carlosjnr)
+- **Email:** [cjunior1@live.com](mailto:cjunior1@live.com)
