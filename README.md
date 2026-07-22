@@ -16,25 +16,25 @@
 
 ## 👨‍💻 About
 
-I'm a **Full Stack Software Engineer** with 3+ years of experience across web applications, mobile products, enterprise systems, and technical mentoring.
+I'm a **Full Stack Software Engineer** with 3+ years of experience across web, mobile, and enterprise applications.
 
-I thrive in the **JavaScript/TypeScript** ecosystem, building scalable solutions from frontend to backend and deployment.
+I work mainly with JavaScript and TypeScript, moving between frontend, backend, mobile, integrations, and deployment.
 
 ---
 
 ## 🛠️ Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,postgres,java,spring,docker,aws,terraform,git&perline=7" alt="Tech Stack" />   
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,postgres,java,python,docker,aws,terraform,git&perline=7" alt="Tech Stack" />   
 
   
 
 
 | Category | Stack |
 | --- | --- |
-| **Frontend & Mobile** | `React`, `Next.js`, `React Native`, `Angular` |
-| **Backend & Data** | `Node.js`, `Express`, `NestJS`, `Fastify`, `PostgreSQL` |
-| **Cloud & Infra** | `AWS`, `Docker`, `NGINX`, `Terraform`, `Cloudflare R2` |
+| **Frontend & Mobile** | `React`, `Next.js`, `React Native` |
+| **Backend & Data** | `Node.js`, `Express`, `PostgreSQL` |
+| **Cloud & Infra** | `AWS`, `Docker`, `Terraform` |
 
 </div>
 
@@ -44,7 +44,7 @@ I thrive in the **JavaScript/TypeScript** ecosystem, building scalable solutions
 
 <div align="center">
 
-`Backend Architecture` · `Databases` · `Cloud Infrastructure` · `System Design` · `Security` · `Reliability`
+`Software Architecture` · `Cloud Infrastructure` · `System Design` · `Security`
 
 
 
