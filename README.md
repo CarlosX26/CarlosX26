@@ -25,19 +25,13 @@ I work mainly with JavaScript and TypeScript, moving between frontend, backend, 
 ## 🛠️ Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,postgres,java,python,docker,aws,terraform,git&perline=7" alt="Tech Stack" />   
-
-  
-
-
-| Category | Stack |
-| --- | --- |
-| **Languages** | `TypeScript`, `JavaScript`, `Java`, `Python` |
-| **Frontend & Mobile** | `React`, `Next.js`, `React Native` |
-| **Backend & Data** | `Node.js`, `Express`, `PostgreSQL` |
-| **Cloud & Infra** | `AWS`, `Docker`, `Terraform` |
-
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,postgres,java,python,docker,aws,terraform,git&perline=7" alt="Tech Stack" />     
 </div>
+---
+**Languages:** TypeScript, JavaScript, Java, Python  
+**Frontend & Mobile:** React, Next.js, React Native  
+**Backend & Data:** Node.js, Express, PostgreSQL  
+**Cloud & Infrastructure:** AWS, Docker, Terraform
 
 ---
 
