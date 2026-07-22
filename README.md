@@ -31,10 +31,12 @@ I work mainly with JavaScript and TypeScript, moving between frontend, backend, 
 ---
 
 <div align="center">
+  
 **Languages:** TypeScript, JavaScript, Java, Python  
 **Frontend & Mobile:** React, Next.js, React Native  
 **Backend & Data:** Node.js, Express, PostgreSQL  
 **Cloud & Infrastructure:** AWS, Docker, Terraform
+
 </div>
 
 ---
