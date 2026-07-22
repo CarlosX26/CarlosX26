@@ -32,6 +32,7 @@ I work mainly with JavaScript and TypeScript, moving between frontend, backend, 
 
 | Category | Stack |
 | --- | --- |
+| **Languages** | `TypeScript`, `JavaScript`, `Java`, `Python` |
 | **Frontend & Mobile** | `React`, `Next.js`, `React Native` |
 | **Backend & Data** | `Node.js`, `Express`, `PostgreSQL` |
 | **Cloud & Infra** | `AWS`, `Docker`, `Terraform` |
