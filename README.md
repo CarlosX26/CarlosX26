@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Carlos%20Junio&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;Building+web+and+mobile+products;Open+to+international+remote+opportunities&font=Fira+Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;Building+web+and+mobile+products;Open+to+international+opportunities&font=Fira+Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22)](https://git.io/typing-svg)
 
 📍 Based in Brazil
 
@@ -25,7 +25,7 @@ I work mainly with JavaScript and TypeScript, moving between frontend, backend, 
 ## 🛠️ Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,postgres,java,python,docker,aws,terraform,git&perline=7" alt="Tech Stack" />     
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,java,python,docker,aws,terraform,git&perline=7" alt="Tech Stack" />     
 </div>
 
 ---
