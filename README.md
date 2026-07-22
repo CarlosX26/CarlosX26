@@ -25,8 +25,9 @@ I thrive in the **JavaScript/TypeScript** ecosystem, building scalable solutions
 ## 🛠️ Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,postgres,java,spring,docker,aws,terraform,git&perline=7" alt="Tech Stack" />
-</div>   
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,postgres,java,spring,docker,aws,terraform,git&perline=7" alt="Tech Stack" />   
+
+  
 
 
 | Category | Stack |
@@ -34,6 +35,8 @@ I thrive in the **JavaScript/TypeScript** ecosystem, building scalable solutions
 | **Frontend & Mobile** | `React`, `Next.js`, `React Native`, `Angular` |
 | **Backend & Data** | `Node.js`, `Express`, `NestJS`, `Fastify`, `PostgreSQL` |
 | **Cloud & Infra** | `AWS`, `Docker`, `NGINX`, `Terraform`, `Cloudflare R2` |
+
+</div>
 
 ---
 
@@ -43,26 +46,7 @@ I thrive in the **JavaScript/TypeScript** ecosystem, building scalable solutions
 
 `Backend Architecture` · `Databases` · `Cloud Infrastructure` · `System Design` · `Security` · `Reliability`
 
-</div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=carlosjnr&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjnr&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</div> <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosjnr&theme=radical&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/carlosjnr/carlosjnr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>   
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" alt="Footer Banner" />
-</div>
+  
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" alt="Footer Banner" /> </div>
