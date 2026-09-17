@@ -20,11 +20,11 @@
 
 ## 👨‍💻 About
 
-I'm a **Full Stack Software Engineer** with **4 years of professional experience** across software development and technical mentorship.
+I'm a Full Stack Software Engineer with 4 years of experience across web, mobile, and enterprise applications.
 
-I work mainly with **TypeScript, React, React Native, Node.js, and PostgreSQL**, building and maintaining web, mobile, and enterprise applications.
+I work mainly with TypeScript, React, React Native, Node.js, and PostgreSQL, and I’m comfortable moving across the stack when needed.
 
-I enjoy working across the stack, from interfaces and APIs to databases, infrastructure, integrations, and production debugging.
+My background also includes technical mentorship, code review, debugging, and supporting other developers.
 
 ---
 
