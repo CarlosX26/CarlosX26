@@ -20,11 +20,13 @@
 
 ## 👨‍💻 About
 
-I'm a Full Stack Software Engineer with 4 years of experience across web, mobile, and enterprise applications.
+Full Stack Software Engineer since 2022, with experience in web, mobile, and enterprise systems.
 
-I work mainly with TypeScript, React, React Native, Node.js, and PostgreSQL, and I’m comfortable moving across the stack when needed.
+Specialized in TypeScript, React, Next.js, React Native, Node.js, and PostgreSQL, with hands-on experience in system architecture, API development, performance optimization, and cloud infrastructure (AWS, Docker).
 
-My background also includes technical mentorship, code review, debugging, and supporting other developers.
+I've contributed to enterprise platforms, mobile apps with 10K+ downloads, and SaaS products, alongside mentoring 200+ developers.
+
+Focused on building scalable, reliable, and maintainable software.
 
 ---
 
