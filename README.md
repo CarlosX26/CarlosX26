@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About
 
-Full Stack Software Engineer since 2022, with experience in web, mobile, and enterprise systems.
+Full Stack Software Engineer since 2022.
 
-Specialized in TypeScript, React, Next.js, React Native, Node.js, and PostgreSQL, with hands-on experience in system architecture, API development, performance optimization, and cloud infrastructure (AWS, Docker).
+Experienced in building enterprise systems, mobile applications, and SaaS products using TypeScript, React, Next.js, Node.js, Java, Spring Boot, Angular, and PostgreSQL.
 
-I've contributed to enterprise platforms, mobile apps with 10K+ downloads, and SaaS products, alongside mentoring 200+ developers.
+Currently focused on Software Architecture, System Design, Distributed Systems, and AI Engineering.
 
-Focused on building scalable, reliable, and maintainable software.
+I value simplicity, reliability, and building software that solves real problems.
 
 ---
 
